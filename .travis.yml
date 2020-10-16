@@ -5,6 +5,10 @@ jdk:
   - openjdk8
   - openjdk11
 
+arch:
+  - amd64
+  - ppc64le
+
 # no need to build all branches
 branches:
   only:
